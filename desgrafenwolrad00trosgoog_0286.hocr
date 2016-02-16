@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desgrafenwolrad00trosgoog_0286.png"; bbox 0 0 2678 4546; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 331 293 1025 481">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 331 293 1025 481">
+     <span class='ocr_line' id='line_1_1' title="bbox 331 293 1025 481; baseline 0.006 -8"><span class='ocrx_word' id='word_1_1' title='bbox 331 293 956 481; x_wconf 85' lang='lat' dir='ltr'><strong>MELERAN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 956 299 1025 477; x_wconf 92' lang='lat' dir='ltr'>Z</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 98 918 1250 1088">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 98 918 1250 1088">
+     <span class='ocr_line' id='line_1_2' title="bbox 98 918 1250 1088; baseline 0.004 -50"><span class='ocrx_word' id='word_1_3' title='bbox 98 919 350 1041; x_wconf 80' lang='lat' dir='ltr'><strong>voN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 433 918 694 1041; x_wconf 75' lang='lat' dir='ltr'><strong>DEM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 773 919 1250 1088; x_wconf 61' lang='lat' dir='ltr'><strong>yLEIER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 407 2548 949 2647">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 407 2548 949 2647">
+     <span class='ocr_line' id='line_1_3' title="bbox 407 2548 949 2647; baseline -0.004 -3"><span class='ocrx_word' id='word_1_6' title='bbox 407 2550 590 2645; x_wconf 86' lang='lat' dir='ltr'><strong>KARL</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 631 2548 949 2647; x_wconf 84' lang='lat' dir='ltr'><strong>BARTSOH.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1344 4546">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1344 4546">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1344 4546; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1344 4546; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
